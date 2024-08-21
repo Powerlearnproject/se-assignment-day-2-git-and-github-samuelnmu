@@ -18,7 +18,7 @@ Commits are projects, initialize a repository, stage changes, commit changes, pu
 Branching allows developers to create separate lines of development within the same project. Isolation, collaboration, safe integration.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-Fork the repository, clone the repository, create new branch, make changes, create a pll request, merge the pull request.
+Fork the repository, clone the repository, create new branch, make changes, create a pll request, merge the pull request
 
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
